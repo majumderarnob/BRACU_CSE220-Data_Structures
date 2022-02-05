@@ -1,1 +1,1 @@
-# BRACU_CSE220-Data_Structures
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE220 known as Data Structures. These Lab assignments are given during Summer'2021 Semester for the course work.
